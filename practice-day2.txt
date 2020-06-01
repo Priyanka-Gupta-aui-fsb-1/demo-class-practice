@@ -1,0 +1,2 @@
+first create a pseudo page(rough blue print), use common names box, text, input, box
+create html tags- headings, 

@@ -1,0 +1,5 @@
+Create a --- mkdir 
+Change directory into the folder
+Add a file
+Create an empty repository
+To check the contents of the repo, as well the changes in the folder
